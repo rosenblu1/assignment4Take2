@@ -1,36 +1,36 @@
 # assignment4Take2
 
-Neither Mutations nor Selective Replacement
-Experiment 1: 0
-Experiment 2: 1
-Experiment 3: 0.15
-Experiment 4: 0
-Experiment 5: 0.75
-Experiment 6: 0.029
+Neither Mutations nor Selective Replacement <br>
+Experiment 1: 0 <br>
+Experiment 2: 1<br>
+Experiment 3: 0.15<br>
+Experiment 4: 0<br>
+Experiment 5: 0.75<br>
+Experiment 6: 0.029<br>
 
 
-Just Selective Replacement
-Experiment 1: 0.02
-Experiment 2: 0.82
-Experiment 3: 0.45
-Experiment 4: 0
-Experiment 5: 0.98
-Experiment 6: 0
+Just Selective Replacement <br>
+Experiment 1: 0.02 <br>
+Experiment 2: 0.82<br>
+Experiment 3: 0.45<br>
+Experiment 4: 0<br>
+Experiment 5: 0.98<br>
+Experiment 6: 0<br>
 
 
-Just Mutation
-Experiment 1: 0.155
-Experiment 2: 0.235
-Experiment 3: 0.189
-Experiment 4: 0.16
-Experiment 5: 0.29
-Experiment 6: 0.24
+Just Mutation<br>
+Experiment 1: 0.155 <br>
+Experiment 2: 0.235<br>
+Experiment 3: 0.189<br>
+Experiment 4: 0.16<br>
+Experiment 5: 0.29<br>
+Experiment 6: 0.24<br>
 
 
-Both Mutation and Selective Replacement
-Experiment 1: 0.02
-Experiment 2: 0.85
-Experiment 3: 0.48
-Experiment 4: 0.0005
-Experiment 5: 0.98
-Experiment 6: 0.497
+Both Mutation and Selective Replacement <br>
+Experiment 1: 0.02 <br>
+Experiment 2: 0.85<br>
+Experiment 3: 0.48<br>
+Experiment 4: 0.0005<br>
+Experiment 5: 0.98<br>
+Experiment 6: 0.497<br>
