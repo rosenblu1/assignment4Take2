@@ -34,3 +34,8 @@ Experiment 3: 0.48<br>
 Experiment 4: 0.0005<br>
 Experiment 5: 0.98<br>
 Experiment 6: 0.497<br>
+
+
+## Sources
+https://docs.oracle.com/javase/8/docs/api/java/util/Random.html
+
