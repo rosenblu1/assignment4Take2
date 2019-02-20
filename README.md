@@ -16,15 +16,9 @@ For this experiment, we predict that there will few or even no cooperators by th
 Experiment 5: 99 Cooperators, 1 Defector <br>
 For this experiment, we predict that most if not all the organisms will be cooperators by the end of the experiment. We believe that this will be the case because there will be a lot of energy sharing, which will allow cooperators to stay alive and reproduce more. There is also only 1 defector in 100 organisms, and it is unlikely that 1 organism can reproduce enough to significantly impact the cooperation rate. We rean experiment 5 ten times, and the average was 75% cooperation value. This result is lower than we expected, although still in line with our thinking that that would be mostly cooperators left. 
 
-Experiment 6: Even number of each group (100 organisms)
+Experiment 6: Even number of each group (100 organisms) <br>
 For this experiment, we predict that there will be some of each group, but that by the end there will be more defectors than the other groups. We think that this will be the case because there are just too many defectors that won't share any energy, and they'll likely reproduce more than the other groups. We ran experiment 6 ten times, and the average was 2.9% cooperation value. This result is much lower than we expected, however we were right about there being more defectors than the other two groups. 
 
-Experiment 1: 0 <br>
-Experiment 2: 1<br>
-Experiment 3: 0.15<br>
-Experiment 4: 0<br>
-Experiment 5: 0.75<br>
-Experiment 6: 0.029<br>
 
 
 Just Selective Replacement <br>
