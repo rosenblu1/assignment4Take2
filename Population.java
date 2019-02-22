@@ -39,7 +39,7 @@ public class Population {
 
   public void update() {
     // create pseudorandom number generator
-    Random rand = new Random();
+    Random rand = new Random(System.currentTimeMillis);
 
     for (int i = 0; i < pop.length; i++) {
 
