@@ -34,7 +34,7 @@ public class PartialCooperator extends Organism {
 
   @Override
   public boolean cooperates() {
-    Random randnum = new Random();
+    Random randnum = new Random(System.currentTimeMillis);
     return randnum.nextBoolean();
   }
 
