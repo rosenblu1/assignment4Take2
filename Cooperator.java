@@ -13,7 +13,7 @@ public class Cooperator extends Organism {
 
   @Override
   public Organism reproduce() {
-    Random rand = new Random();
+    Random rand = new Random(System.currentTimeMillis);
     if (rand.nextInt(100) < 10) {
       if (rand.nextBoolean()) {
         return new PartialCooperator();
