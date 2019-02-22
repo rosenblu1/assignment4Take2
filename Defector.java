@@ -12,7 +12,9 @@ public class Defector extends Organism {
   }
 
   @Override
-  public Organism reproduce() {
+  public Organism reproduce(System.currentTimeMillis) {
+    //will mutate and return one of the other two subtypes of Organism
+    //about 10% of the time
     Random rand = new Random();
     if (rand.nextInt(100) < 10) {
       if (rand.nextBoolean()) {
