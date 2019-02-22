@@ -13,7 +13,9 @@ public class PartialCooperator extends Organism {
 
   @Override
   public Organism reproduce() {
-    Random rand = new Random();
+    //will mutate and return one of the other two subtypes of Organism
+    //about 10% of the time
+    Random rand = new Random(System.currentTimeMillis);
     if (rand.nextInt(100) < 10) {
       if (rand.nextBoolean()) {
         return new Cooperator();
