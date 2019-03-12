@@ -1,4 +1,4 @@
-package assignment4;
+package artificialLife;
 
 import java.util.Random;
 

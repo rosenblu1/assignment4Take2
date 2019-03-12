@@ -1,4 +1,4 @@
-package assignment4;
+package artificialLife;
 
 import java.util.Random;
 
@@ -37,4 +37,4 @@ public class Cooperator extends Organism {
     return true;
   }
 
-} // Cooperator
+}

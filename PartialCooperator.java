@@ -1,4 +1,4 @@
-package assignment4;
+package artificialLife;
 
 import java.util.Random;
 
@@ -34,8 +34,8 @@ public class PartialCooperator extends Organism {
 
   @Override
   public boolean cooperates() {
-    Random randnum = new Random(System.currentTimeMillis);
+    Random randnum = new Random(System.currentTimeMillis());
     return randnum.nextBoolean();
   }
 
-} // PartialCooperator
+}

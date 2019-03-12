@@ -1,4 +1,4 @@
-package assignment4;
+package artificialLife;
 
 public class Pair<T,U> {
 	T left;
