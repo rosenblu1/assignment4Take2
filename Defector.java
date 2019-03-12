@@ -38,4 +38,4 @@ public class Defector extends Organism {
   }
 
 
-}
+} // Defector
